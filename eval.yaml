@@ -7,10 +7,10 @@ models:
   - o3-mini
 datasets:
   # - OLAIR/mt-math-500
-  - OLAIR/mt-math-extended
-  - OLAIR/mt-aime-extended
-  - OLAIR/M-IMO-extended
-  - OLAIR/MMO
+  - math100
+  - aime2024
+  - IMO
+  - MMO
 language_type:
 output_path: results
 hf_token: hf_xxx # HF token
